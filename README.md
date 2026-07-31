@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Currently studying **B.Tech Computer Science** at **Symbiosis International University**
+- 🎓 Currently studying **B.Tech. Computer Science** at **Symbiosis International University**
 - 🌱 I'm currently learning **CSS3, HTML5, Java, Operating Systems, Data Structures**
 - 💬 Ask me about **Python, C++, C**
 
@@ -48,4 +48,4 @@
   <img src="https://komarev.com/ghpvc/?username=abeljoseph24&label=Profile%20Views&color=0e75b6&style=flat" alt="abeljoseph24" />
 </p>
 
-<p align="center"><i>Thanks for stopping by! ⭐ from a fellow developer</i></p>
+<p align="center"><i>Thanks for stopping by! Keep Exploring!</i></p>

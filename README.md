@@ -36,14 +36,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abeljoseph24/abeljoseph24/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abeljoseph24&label=Profile%20Views&color=0e75b6&style=flat" alt="abeljoseph24" />
 </p>
